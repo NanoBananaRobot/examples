@@ -14,7 +14,9 @@ If you like it, please ⭐ Star to bookmark it
 
 > You can use Nano Banana in [Telegram Bot](https://t.me/NanoBananaRobot)
 
-## 📑 Cases
+
+<details>
+<summary>📑 Cases</summary>
 
 - [🖼️ Cases](#️-cases)
   - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
@@ -128,6 +130,9 @@ If you like it, please ⭐ Star to bookmark it
   - [Example 109: Therapy for Childhood Self (by @samann\_ai)](#example-109-therapy-for-childhood-self-by-samann_ai)
   - [Example 110: Pixar-Style Portrait (by @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
 - [🙏 Acknowledge](#-acknowledge)
+
+<!-- длинный список -->
+</details>
 
 ## Cases
 
