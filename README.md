@@ -127,7 +127,7 @@ Welcome to the Nano-banana curated image gallery! 🤗
   - [Example 107: Drawing on a Pen Display (by @AI\_Kei75)](#example-107-drawing-on-a-pen-display-by-ai_kei75)
   - [Example 108: Create LINE Stamp Image (by @emakiscroll)](#example-108-create-line-stamp-image-by-emakiscroll)
   - [Example 109: Therapy for Childhood Self (by @samann\_ai)](#example-109-therapy-for-childhood-self-by-samann_ai)
-  - [Example 110: Pixar-Style Portrait (by @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
+
 - [🙏 Acknowledge](#-acknowledge)
 
 <!-- длинный список -->
@@ -150,43 +150,39 @@ Welcome to the Nano-banana curated image gallery! 🤗
 ```
 turn this photo into a character figure. Behind it, place a box with the character's image printed on it, and a computer showing the Blender modeling process on its screen. In front of the box, add a round plastic base with the character figure standing on it. set the scene indoors if possible
 ```
-
-<!-- Case 2: Generate Ground View from Map Arrow (by @tokumin) -->
-### Case 2: [Generate Ground View from Map Arrow](https://x.com/tokumin/status/**1960583251460022626**)（by [@tokumin](https://x.com/tokumin)）
-
-| Input | Output |
-|:---:|:---:|
-| <img src="images/case2/input.jpg" width="300" alt="Input Image"> | <img src="images/case2/output.jpg" width="300" alt="Output Result"> |
-| <img src="images/case2/input3.jpg" width="300" alt="Input Image"> | <img src="images/case2/output3.jpg" width="300" alt="Output Result"> |
-| <img src="images/case2/input2.jpg" width="300" alt="Input Image"> | <img src="images/case2/output2.jpg" width="300" alt="Output Result"> |
-
-**input:** Need to upload a Google Maps image containing a red arrow
-
-**prompt:**
-
-```
-draw what the red arrow sees
-/
-draw the real world view from the red circle in the direction of the arrow.
-```
-
-<!-- Case 3: Real World AR Information (by @bilawalsidhu) -->
-### Case 3: [Real World AR Information](https://x.com/bilawalsidhu/status/1960529167742853378)（by [@bilawalsidhu](https://x.com/bilawalsidhu)）
+<!-- Example 2: Therapy for Childhood Self (by @samann_ai) -->
+### Example 2: [Therapy for Childhood Self](https://x.com/samann_ai/status/1969743981157265867) (by [@samann_ai](https://x.com/samann_ai))
 
 | Output |
 |:---:|
-| <img src="images/case3/output.jpg" width="300" alt="Output Result"> |
+|<img src="images/case109/output.jpg" width="300" alt="Output result"> |
 
-**input:** Need to upload a reference image
+**Input:** A reference portrait must be uploaded.
 
-**prompt:**
+**Prompt:**
 
 ```
-you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it.
+Photorealistic minimalist therapy room; light walls, grey sofa, wooden coffee table with a tissue box, notebook and a glass of water, simple frame and floor lamp, soft natural daylight. The same person at two ages sits side-by-side: adult on the left speaking with open hands; child on the right listening with head slightly down. Both wear matching [OUTFIT] (same color & style). Clean studio vibe, centered composition, shallow depth of field, 50mm look, 4K, vertical 3:4. No extra people, no text, no watermark.
 ```
 
 > [!NOTE]
-> **Need to input the point of interest to be annotated in the prompt [POI]**
+> **Replace the text inside [brackets] with your desired outfit**
+
+<!-- Example 3: Pixar-Style Portrait (by @NanoBanana_labs) -->
+### Example 3: [Pixar-Style Portrait](https://x.com/NanoBanana_labs/status/1969824645743587519) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Output |
+|:---:|
+|<img src="images/case110/output.jpg" width="300" alt="Output result"> |
+
+**Input:** A character reference image must be uploaded.
+
+**Prompt:**
+
+```
+3D avatar of the young man in the image attached, smiling happily, clean white background, conceptual digital art in Pixar-style, high quality, soft lighting, smooth textures, vibrant colors, realistic proportions with a cartoon touch & studio render look.
+```
+
 
 <!-- Case 4: Extract 3D Buildings/Make Isometric Models (by @Zieeett) -->
 ### Case 4: [Extract 3D Buildings/Make Isometric Models](https://x.com/Zieeett/status/1960420874806247762)（by [@Zieeett](https://x.com/Zieeett)）
@@ -2065,7 +2061,7 @@ Use the character in the original image to create a character status screen for 
 Keep the character design and style from the original image, but change the costume to one from a fantasy RPG. Also, change the pose to suit the situation.
 Display the character from the original image and the status screen side by side.
 The status screen will list various parameters, skills, icons, etc.
-The background should be a fantasy background that matches the style of the original image.
+The background should be a fantasy backgroun d that matches the style of the original image.
 The status screen should be rich and stylish, like a game from 2025.
 ```
 
@@ -2116,38 +2112,24 @@ Close-up. The pen tip is touching the tablet screen.
 Character sheet, facial expressions, joy, anger, sadness, happiness
 ```
 
-<!-- Example 109: Therapy for Childhood Self (by @samann_ai) -->
-### Example 109: [Therapy for Childhood Self](https://x.com/samann_ai/status/1969743981157265867) (by [@samann_ai](https://x.com/samann_ai))
+
+<!-- Case 109: Real World AR Information (by @bilawalsidhu) -->
+### Case 109: [Real World AR Information](https://x.com/bilawalsidhu/status/1960529167742853378)（by [@bilawalsidhu](https://x.com/bilawalsidhu)）
 
 | Output |
 |:---:|
-|<img src="images/case109/output.jpg" width="300" alt="Output result"> |
+| <img src="images/case3/output.jpg" width="300" alt="Output Result"> |
 
-**Input:** A reference portrait must be uploaded.
+**input:** Need to upload a reference image
 
-**Prompt:**
+**prompt:**
 
 ```
-Photorealistic minimalist therapy room; light walls, grey sofa, wooden coffee table with a tissue box, notebook and a glass of water, simple frame and floor lamp, soft natural daylight. The same person at two ages sits side-by-side: adult on the left speaking with open hands; child on the right listening with head slightly down. Both wear matching [OUTFIT] (same color & style). Clean studio vibe, centered composition, shallow depth of field, 50mm look, 4K, vertical 3:4. No extra people, no text, no watermark.
+you are a location-based AR experience generator. highlight [point of interest] in this image and annotate relevant information about it.
 ```
 
 > [!NOTE]
-> **Replace the text inside [brackets] with your desired outfit**
-
-<!-- Example 110: Pixar-Style Portrait (by @NanoBanana_labs) -->
-### Example 110: [Pixar-Style Portrait](https://x.com/NanoBanana_labs/status/1969824645743587519) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
-
-| Output |
-|:---:|
-|<img src="images/case110/output.jpg" width="300" alt="Output result"> |
-
-**Input:** A character reference image must be uploaded.
-
-**Prompt:**
-
-```
-3D avatar of the young man in the image attached, smiling happily, clean white background, conceptual digital art in Pixar-style, high quality, soft lighting, smooth textures, vibrant colors, realistic proportions with a cartoon touch & studio render look.
-```
+> **Need to input the point of interest to be annotated in the prompt [POI]**
 
 
 ## 🙏 Acknowledge
