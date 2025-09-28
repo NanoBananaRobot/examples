@@ -12,11 +12,8 @@ Welcome to the Nano-banana curated image gallery! 🤗
 
 If you like it, please ⭐ Star to bookmark it!
 
-## 📑 Menu
+## 📑 Cases
 
-- [🍌 Introduction](#-introduction)
-- [📰 News](#-news)
-- [📑 Menu](#-menu)
 - [🖼️ Cases](#️-cases)
   - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
   - [Case 2: Generate Ground View from Map Arrow（by @tokumin）](#case-2-generate-ground-view-from-map-arrowby-tokumin)
