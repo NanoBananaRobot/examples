@@ -14,7 +14,7 @@ If you like it, please ⭐ Star to bookmark it
 
 > You can use Nano Banana in [Telegram Bot](https://t.me/NanoBananaRobot)
 
-## Cases
+## 📑 Cases
 
 - [🖼️ Cases](#️-cases)
   - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
@@ -129,7 +129,7 @@ If you like it, please ⭐ Star to bookmark it
   - [Example 110: Pixar-Style Portrait (by @NanoBanana\_labs)](#example-110-pixar-style-portrait-by-nanobanana_labs)
 - [🙏 Acknowledge](#-acknowledge)
 
-## 🖼️ Cases
+## Cases
 
 <!-- Case 1: Illustration to Figure (by @ZHO_ZHO_ZHO) -->
 ### Case 1: [Illustration to Figure](https://x.com/ZHO_ZHO_ZHO/status/1958539464994959715)（by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)）
