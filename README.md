@@ -14,7 +14,7 @@ If you like it, please ⭐ Star to bookmark it
 
 > You can use Nano Banana in [Telegram Bot](https://t.me/NanoBananaRobot)
 
-## 📑 Cases
+## Cases
 
 - [🖼️ Cases](#️-cases)
   - [Case 1: Illustration to Figure（by @ZHO\_ZHO\_ZHO）](#case-1-illustration-to-figureby-zho_zho_zho)
